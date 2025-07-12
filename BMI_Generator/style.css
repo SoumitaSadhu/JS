@@ -1,0 +1,39 @@
+.container{
+    background-color: plum;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    height: 550px;
+    text-align: center;
+}
+button{
+    height: 35px;
+    width: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 4px ;
+    border-color: purple;
+    font-size: medium;
+    margin-left: 12px;
+    margin-top: 50px;
+    position: relative;
+    justify-content: center;
+}
+#Height, 
+#Weight {
+    height: 20px;
+    width: 400px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+.guide{
+    text-align: center;
+    margin-top: 40px;
+    font-size: medium;
+}
+.result{
+    font-size: medium;
+    color: black;
+}
